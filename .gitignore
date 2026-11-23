@@ -59,3 +59,5 @@ desktop.ini
 !eval/cases.jsonl
 !eval/baseline.json
 !data/**/.gitkeep
+
+config
